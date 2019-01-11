@@ -1,3 +1,3 @@
 # PDF
 
-Probability density functions and Cummulative distribution functions of some well known random variables.
+Probability density functions and Cumulative distribution functions of some well known random variables.
